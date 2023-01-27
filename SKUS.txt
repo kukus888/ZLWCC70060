@@ -1,0 +1,7 @@
+﻿// SKUs text file. Comments are starting with //
+// Use , as delimiter. Spaces and white spaces will be trimmed.
+// Format:
+// Product code, SKU
+P-GT-1CXXW0P,SM-R860NZDAEUE
+P-GT-1CXXW0P,SM-R860NZKAEUE
+P-GT-1CXXW0P,SM-R860NZSAEUE
